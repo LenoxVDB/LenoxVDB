@@ -5,7 +5,7 @@
 <p align="center">hi i'm Lenox, currently im a first year student Software developer at ROC midden Nederland.</p>
 <br>
 <div>
-- 🔭 I’m currently working on **PHP, database, JS**
+- 🔭 I’m currently working on: PHP, database, JS
 </div
 <br>
 <h3 align="left">Connect with me:</h3>
