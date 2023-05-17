@@ -9,6 +9,8 @@
 <br>
 <div>
 - 🔭 I’m currently working on: PHP, database, JS
+<br>
+<!-- - <a href="https://github.com/LenoxVDB/project-1-site-opdr.shopie.git">php</a> -->
 </div
 <br>
 <h3 align="left">Connect with me:</h3>
@@ -21,6 +23,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=LenoxVDB&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" alt="LenoxVDB"</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lenoxvdb&show_icons=true&locale=en&layout=compact" alt="LenoxVDB"</p>
+
+
+
+  
 
   
 
