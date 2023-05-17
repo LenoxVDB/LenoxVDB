@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm LenoxVDB</h1> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lenoxvdb&label=Profile%20views&color=0e75b6&style=flat" alt="lenoxvdb" /> </p>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 <h3 align="center">🚧 work in progress</h3>
-<h3 align="center">About me:</h3>
+<h3 align="center">:woman_technologist: About Me :</h3>
 <p align="center">hi i'm Lenox, currently im a first year student Software developer at ROC midden Nederland.</p>
 <br>
 <div>
